@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte1/Ej02_CuadradoQueGira/Ej02.unity
+    guid: 507afa47ebaa949ada68537ab5e91143
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte1/Ej04_GameObjectsYComponentes/Ej04.unity
+    guid: 196a8a8f9b043476ba338a8f362406df
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte1/Ej05_CSharpMinimo/Ej05.unity
+    guid: d0e958c57589a42708204c9683435875
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte1/Ej09_PrefabsQueSeCreanSolos/Ej09.unity
+    guid: dce625d3d61a94d1ea9a8624fad3d15b
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte1/Ej10_AtrapaLaFruta/Ej10.unity
+    guid: a012c220451dc4446acc2f5903191327
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej11_MueveConElDedo/Ej11.unity
+    guid: 2fbce1d76628a4feebb3eb3bcb86c00c
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej12_DeslizaYLanza/Ej12.unity
+    guid: 6834caf56af42407083bcc7a86308cb7
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej13_Fisica2D/Ej13.unity
+    guid: 93b8ae3fd5c0f450e8f5cd0cc9d52a49
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej14_ColisionesYTriggers/Ej14.unity
+    guid: 265c89b971c81491386e4c52231fbe9b
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej15_SistemaDePuntaje/Ej15.unity
+    guid: a7d6b69c02c6a4c68930b87234039a6d
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej16_Temporizador/Ej16.unity
+    guid: 66cfe3b92a79f425a981b8d29a958f6c
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej17_VolteaEnElPuntoJusto/Ej17.unity
+    guid: b6111a828af384319a024c03c5aee1fe
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej18_GeneradorDeObstaculos/Ej18.unity
+    guid: f543612eed5324ad7a9221b7781a1353
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej19_VidasYGameOver/Ej19.unity
+    guid: 92763a88adc214f3fa0b54d2a0ab4450
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte2/Ej20_OrdenaPorColor/Ej20.unity
+    guid: 697eba21db0c64195b74d9802fd6da54
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej24_Animacion2D/Ej24.unity
+    guid: cdefe13f77bb145ebbb7bc02e3420d67
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej25_SquashAndStretch/Ej25.unity
+    guid: b14eff659b3bf45eba3f2e5abb62f766
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej26_Particulas/Ej26.unity
+    guid: 80b55e37addae4d99be77f9090b186a1
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej27_SacudidaYCamaraLenta/Ej27.unity
+    guid: b4ef0c6189749449cb192dba1f9426b4
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej28_MusicaYEfectos/Ej28.unity
+    guid: 77f731f67574a453f9b8028c0c81a2c0
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte3/Ej29_ZonaSegura/Ej29.unity
+    guid: fc18401ee344a49dbaf0234872b79364
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej34_NivelesConScriptableObjects/Ej34.unity
+    guid: 31314564569de426bba5d4997594d9ec
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej35_MenuYPausa/Menu.unity
+    guid: b89df589c36614442a402ffecdfe84ca
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej35_MenuYPausa/Juego.unity
+    guid: b02e7123f47854161a7fb4f4a78b8a99
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej36_GuardaElProgreso/Ej36.unity
+    guid: 50e4de1c239474c76b56508c862c7e8b
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej37_MonedasYTienda/Ej37.unity
+    guid: ca9147225677c425c98600b65fd446ab
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte4/Ej38_LogrosYRecords/Ej38.unity
+    guid: b996760526e73498dab0a4e14b15c440
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte5/Ej41_OptimizaConPool/Ej41.unity
+    guid: 37d551e0c0c594f4c8c474b31149b27e
+  - enabled: 1
+    path: Assets/CreaTuVideojuego/Ejercicios/Parte5/Ej45_Analitica/Ej45.unity
+    guid: 407cf67ebc9b14fbb9b1598bc9e6312a
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
